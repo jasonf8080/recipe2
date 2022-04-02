@@ -29,7 +29,7 @@ const loadRecipe = async () => {
 
             titleElement.textContent = title;
             descElement.textContent = desc;
-            imageElement.style.display = 'block'
+            imageElement.style.display = 'block';
             imageElement.src = image;
             ingredientsElement.innerHTML = ingredientsList;
             stepsElement.innerHTML = stepsList;   
