@@ -1,7 +1,7 @@
 const url = 'data.json';
 
-export const fetchData = async (section) => {
-    section.innerHTML = `<i class="fas fa-chevron-right></i>`;
+export const fetchData = async () => {
+    
     try{
         const response = await fetch(url);
         const data = await response.json();
