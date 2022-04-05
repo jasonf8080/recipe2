@@ -245,7 +245,7 @@ section{
     justify-content: center;
     align-items: center;
     z-index: 999;
-    position: absolute;
+    position: fixed;
     background: white;
     top: 0;
     left: 0;
