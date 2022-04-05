@@ -5,6 +5,7 @@ import { paginate } from "./trending.js";
 import { displayRecipe } from "./display.js";
 import { displayCategories } from "./display.js";
 import { selectRecipe } from "./category.js";
+import { showLoader } from "./loading.js";
 
 
 
@@ -44,8 +45,10 @@ const load = async() =>{
 
 numbers.addEventListener('click', (e) => {
     if(e.target.classList.contains('number')){
+        
        index = parseInt(e.target.dataset.id - 1);
        displayRecipe(trendingSection, pages[index])
+       
        
        const trendingRecipes = [...document.querySelectorAll('.recipe-item')];
        selectRecipe(trendingRecipes);

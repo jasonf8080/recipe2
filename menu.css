@@ -520,7 +520,6 @@ img{
 
 @media(max-width: 600px){
     .categories-grid{
-       row-gap: 25px !important;
-       column-gap: 15px !important;
+        grid-template-columns: 1fr !important;
     }
 }
