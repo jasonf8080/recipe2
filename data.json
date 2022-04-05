@@ -45,15 +45,7 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-    {
-        "category": "appetizers",
-        "image": "https://spicysouthernkitchen.com/wp-content/uploads/Fried-Jalapeno-Popper-Bites-9.jpg",
-        "title":  "Jalepeno Poppers",
-        "desc":   "Spicy jalapeños and cheese fried in a golden brown shell",
-        "ingredients":  ["12 ounces jalapeno peppers, seeded and halved", "1 (8 ounce) package shredded Cheddar cheese", "1 cup all-purpose flour", "1 cup dry bread crumbs", "2 quarts oil for frying", "1 cup milk"],
-        "steps": ["In a medium bowl, mix the cream cheese, Cheddar cheese and bacon bits. Spoon this mixture into the jalapeno pepper halve", "Put the milk and flour into two separate small bowls. Dip the stuffed jalapenos first into the milk then into the flour, making sure they are well coated with each. Allow the coated jalapenos to dry for about 10 minutes", "Dip the jalapenos in milk again and roll them through the breadcrumbs. Allow them to dry, then repeat to ensure the entire surface of the jalapeno is coated.", "In a medium skillet, heat the oil to 365 degrees F ( 180 degrees C). Deep fry the coated jalapenos 2 to 3 minutes each, until golden brown. Remove and let drain on a paper towel."]
-    },
-
+   
     {
         "category": "appetizers",
         "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/11/fried-calamari-67-500x500.jpg",
@@ -64,25 +56,7 @@
     },
 
 
-    {
-        "category": "appetizers",
-        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/stuffed-mushrooms-vertical-jpg-1525207616.jpg?crop=1.00xw:0.667xh;0,0.215xh&resize=480:*",
-        "title":  "Stuffed Mushrooms",
-        "desc":   "Mushrooms stuffed with shallots, garlic, walnuts, breadcrumbs, and chopped mushroom stems.",
-        "ingredients":  ["12 medium mushrooms", "2 tablespoons olive oil", "1/2 cup chopped red onion", "3 cloves garlic, chopped", "2 tablespoons grated Asiago cheese", "1 tablespoon ricotta cheese"],
-        "steps": ["Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet.", "Remove stems from mushrooms. Chop stems and set aside. Brush caps with 1 tablespoon olive oil and place on the prepared baking sheet with the open sides up.", "Heat remaining 1 tablespoon oil in a skillet over medium heat. Add onion, garlic, and Italian seasoning; cook for 2 minutes. Add mushroom stems and cook until tender, about 5 minutes. Remove from the heat and transfer to a bowl.", "Add Asiago cheese and ricotta cheese to the onion-mushroom mixture and mix to combine. Season with salt and pepper. Fill each mushroom cap with a spoonful of the mixture.", "Bake in the preheated oven until mushrooms are tender and filling is bubbling slightly, 20 to 25 minutes."]
-    },
-
-    {
-        "category": "appetizers",
-        "image": "https://foodwithfeeling.com/wp-content/uploads/2021/08/truffle-fries-4-225x225.jpg",
-        "title":  "Truffle Fries",
-        "desc":   "Thin cut deep-fried potatoes topped with truffle oil, fresh herbs and spices, garlic, and cheese,",
-        "ingredients":  ["6 large red potatoes", "3 cups canola oil", "1/4 cup grated Parmesan cheese", "3 cloves garlic", "2 1/2 tablespoons truffle oil", "2 tablespoons sea salt, or more to taste"],
-        "steps": ["Cut potatoes to desired size, but not too thick.", "Place fries into a microwave-safe container and microwave for 4 minutes.", "Place oil into a frying pan and heat to 375 degrees F (190 degrees C).", "Place 1 to 2 handfuls of fries in the frying pan and fry until browned and soft, 4 to 5 minutes, turning and tossing frequently to cook evenly.", "Preheat the oven to 225 degrees F (110 degrees C).", "Drain fries in a bowl lined with a paper towel. Toss fries in the bowl to get rid of excess oil; remove paper towel.", "Combine Parmesan cheese, garlic, salt, and pepper in a bowl. Toss fries in the mixture until well mixed. Drizzle fries with truffle oil and toss again until well mixed.", "Bake in the preheated oven to allow truffle oil to settle and reheat fries, 5 to 7 minutes. Serve fries while hot."]
-    },
-
-
+   
     {
         "category": "appetizers",
         "image": "https://www.lemontreedwelling.com/wp-content/uploads/2020/10/air-fryer-onion-rings-featured-720x720.jpg",
@@ -130,7 +104,7 @@
     },
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://www.daringgourmet.com/wp-content/uploads/2020/10/Minestrone-12.jpg",
         "title":  "Minestrone Soup",
         "desc":   "Italian vegetable soup filled with pasta, beans, tomatoes, and veggies, seasoned with Italian herbs.",
@@ -139,7 +113,7 @@
     },
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://www.willcookforsmiles.com/wp-content/uploads/2020/01/pasta-e-fagioli-8-1-500x500.jpg",
         "title":  "Pasta Fagoli",
         "desc":   "Italian style soup with tender pasta, creamy beans, and delicious herbs in a rich and savory broth.",
@@ -149,7 +123,7 @@
 
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://s23209.pcdn.co/wp-content/uploads/2019/06/One-Pot-French-Onion-SoupIMG_9418-360x360.jpg",
         "title":  "French Onion Soup",
         "desc":   "French style soup prepared with beef stock, caramelized onions, topped with cheesy bread",
@@ -159,9 +133,9 @@
     
 
     {
-        "category": "salads",
-        "image": "image 3.png",
-        "title":  "Tortellinij Soup",
+        "category": "soups",
+        "image": "image 56.png",
+        "title":  "Tortellini Soup",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
         "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
         "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
@@ -177,7 +151,7 @@
     },
 
     {
-        "category": "breakfast",
+        "category": "snacks",
         "image": "image 4.png",
         "title":  "Blueberry Muffins",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
@@ -187,7 +161,7 @@
 
     {
         "category": "breakfast",
-        "image": "image 5.png",
+        "image": "image 67.png",
         "title":  "Ham & Cheese Omelette",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
         "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
@@ -221,17 +195,10 @@
         "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
     },
 
-    {
-        "category": "breakfast",
-        "image": "image 9.png",
-        "title":  "Oatmeal",
-        "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
-    },
+   
 
     {
-        "category": "breakfast",
+        "category": "sandwiches",
         "image": "image 10.png",
         "title":  "Bacon Egg & Cheese",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
@@ -329,16 +296,7 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-   
 
-    {
-        "category": "entrees",
-        "image": "https://neighborfoodblog.com/wp-content/uploads/2019/09/stuffed-pork-tenderloin-4-720x720.jpg",
-        "title":  "Pork Tenderloin",
-        "desc":   "Tender, juicy, thin cut of pork, crusted in Italian herbs",
-       "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
-    },
 
     {
         "category": "entrees",
@@ -377,30 +335,13 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-    {
-        "category": "desserts",
-        "image": "https://www.culinaryhill.com/wp-content/uploads/2018/09/Easy-Chocolate-Mousse-SQ-03-Culinary-Hill-e1580268096256-500x500.png",
-        "title":  "Chocolate Mousse",
-        "desc":   "Chocolate Mousse served decadently creamy, light and billowy, and indulgently chocolaty.",
- "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
-    },
+
 
     {
-        "category": "desserts",
+        "category": "snacks",
         "image": "https://www.momontimeout.com/wp-content/uploads/2020/09/stack-of-chewy-chocolate-chip-cookies-on-dark-wood-board-square.jpg",
         "title":  "Chocolate Chip Cookies",
         "desc":   "Semisweet chocolate chips mixed in a thick, chewy cookie––soft on the inside and crunchy on the outside",
- "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
-    },
-
-
-    {
-        "category": "desserts",
-        "image": "https://www.looneybeanbishop.com/uploads/1/3/1/2/131223678/s807527588167116925_p101_i1_w1920.jpeg",
-        "title":  "Almond Bear Claw",
-        "desc":   "Tender, rich dough and filled with a luscious and sweet almond filling.",
  "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
@@ -443,14 +384,7 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-    {
-        "category": "desserts",
-        "image": "https://carameltintedlife.com/wp-content/uploads/2021/03/Puff-Pastry-Cinnamon-Rolls.jpg",
-        "title":  "Cinnamon Roll",
-        "desc":   "Sweet baked cinnanon buns filled with a cinnamon-sugar filling topped with a sugar glaze",
- "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
-    },
+    
 
 
     {
@@ -498,14 +432,6 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-    {
-        "category": "seafood",
-        "image": "image 13.png",
-        "title":  "Fish Tacos",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
-        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
-    },
 
     {
         "category": "seafood",
@@ -538,7 +464,7 @@
     },
 
     {
-        "category": "desserts",
+        "category": "snacks",
         "image": "image 34.png",
         "title":  "Apple Crisp",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
@@ -631,9 +557,9 @@
     },
 
     {
-        "category": "entrees",
-        "image": "image 43.png",
-        "title":  "French Macaroons",
+        "category": "snacks",
+        "image": "image 66.png",
+        "title":  "French Onion Dip",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
         "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."],
@@ -681,14 +607,47 @@
         "trending": true
     },
 
+
+
+    {
+        "category": "sandwiches",
+        "image": "image 52.png",
+        "title":  "BLT Sandwich",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+    },
+
+    {
+        "category": "seafood",
+        "image": "image 13.png",
+        "title":  "Fish Tacos",
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."],
+        "trending": true
+    },
+
+
+
+    {
+        "category": "entrees",
+        "image": "https://neighborfoodblog.com/wp-content/uploads/2019/09/stuffed-pork-tenderloin-4-720x720.jpg",
+        "title":  "Pork Tenderloin",
+        "desc":   "Tender, juicy, thin cut of pork, crusted in Italian herbs",
+       "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."],
+        "trending": true
+    },
+
     {
         "category": "entrees",
         "image": "image 44.png",
         "title":  "Baked Mac & Cheese",
         "desc":   " A classic macaroni and cheese recipe featuring a special blend of cheeses",
         "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."],
-        "trending": true
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
     },
 
     
@@ -698,7 +657,119 @@
         "title":  "Sausage Calzone",
         "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
         "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
-        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."],
-        "trending": true
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "sandwiches",
+        "image": "image 51.png",
+        "title":  "Philly Cheesesteak",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    
+
+    {
+        "category": "sandwiches",
+        "image": "image 53.png",
+        "title":  "Pesto Panini",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "sandwiches",
+        "image": "image 54.png",
+        "title":  "Grilled Cheese",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "sandwiches",
+        "image": "image 55.png",
+        "title":  "Chicken Cordon Bleu",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 57.png",
+        "title":  "Iced Coffee",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+
+
+    {
+        "category": "drinks",
+        "image": "image 59.png",
+        "title":  "Peach Sangria",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 58.png",
+        "title":  "Lime Margharita",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 60.png",
+        "title":  "Vanilla Milkshake",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 64.png",
+        "title":  "Rasberry Iced Tea",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+       
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 49.png",
+        "title":  "Caramel Almond Bark",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 65.png",
+        "title":  "Pretzel Bites",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["15 large tiger shrimp", "1 teaspoon garlic powder", "2 tablespoons lime juice", "1/4 cup olive oil", "1 teaspoon garlic powder", "1 teaspoon cajun seasoning"],
+        "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     }
 ]
