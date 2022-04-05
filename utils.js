@@ -10,7 +10,7 @@ export const categoriesData = [
     },
 
     {
-        img: 'image 17.png',
+        img: 'image 62.png',
         title: 'soups'
     },
 
@@ -20,7 +20,7 @@ export const categoriesData = [
     },
 
     {
-        img: 'image 48.png',
+        img: 'image 63.png',
         title: 'sandwiches'
     },
 

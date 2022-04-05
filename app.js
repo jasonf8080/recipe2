@@ -27,8 +27,10 @@ const load = async() =>{
     document.title = 'Home';
     const data = await fetchData();
     const trending = setTrending(data);
+    
    
    pages = paginate(trending);//whole array
+   console.log(pages)
    displayRecipe(trendingSection, pages[index]);
    displayCategories(categorySection, categoriesData);
 

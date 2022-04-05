@@ -1,6 +1,8 @@
+
 import { hideLoader } from "./loading.js";
 //FUNCTIONS
 export const displayRecipe = (section, array) => {
+   
     section.innerHTML = array.map((recipe) => 
         `<a href="single-recipe.html" class="recipe-item ${recipe.category}" data-id="${recipe.title}">
         <img class="recipe-img" src="${recipe.image}">

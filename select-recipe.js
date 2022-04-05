@@ -17,17 +17,18 @@ const stepsElement = document.querySelector('.recipe-steps');
 
 //FUNCTIONS
 const loadRecipe = async () => {
-    document.title = recipeID;
-
     const data = await fetchData();
+
+    if(!recipeID){
+        window.location = 'index.html';
+    } else {
+    document.title = recipeID;
     for(let i = 0; i < data.length; i++){
         if(recipeID === data[i].title){
             const {image, title, desc, ingredients, steps} = data[i];
             //steps / ingredients
             const ingredientsList = list(ingredients);
             const stepsList = list(steps);
-            console.log(stepsList)
-            console.log(stepsElement)
 
             titleElement.textContent = title;
             descElement.textContent = desc;
@@ -36,6 +37,7 @@ const loadRecipe = async () => {
             stepsElement.innerHTML = stepsList;   
     } 
     hideLoader();
+}
 }
 }
 
