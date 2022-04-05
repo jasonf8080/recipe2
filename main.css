@@ -15,6 +15,10 @@ html{
     font-family: 'Cabin', sans-serif;
 }
 
+body{
+    position: relative;
+}
+
 li{
     list-style: none;
 }
@@ -33,19 +37,73 @@ main{
     font-size: 30px;
     text-align: center;
     text-transform: capitalize;
+    color: rgb(37, 37, 37);
 }
 
 .header{
     border-radius: 12px;
-    margin-top: 60px;
     margin-bottom: 60px;
-    height: 75vh;
+    height: 80vh;
     background: url("header.png") no-repeat center/cover;
+    position: relative;
 }
+
+.header-info{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.header-info h2{
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.search{
+    background: rgba(255, 255, 255, 0.651);
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    width: 700px;
+    padding: 20px;
+    min-width: 300px;
+    margin-top: 14px;
+    border-radius: 12px;
+}
+
+
+.search i{
+    margin-right: 40px;
+    width: 20px;
+   font-size: 20px;
+}
+
+.search input{
+    border: none;
+    width: 100%;
+    background: transparent;
+    outline: none;
+  
+    
+}
+
+.search input::placeholder{
+    color: rgb(39, 39, 39);
+   font-size: 26px;
+}
+
+
 
 section{
     margin-bottom: 50px;
 }
+
 
 /*categories*/
 .categories-grid{
@@ -54,7 +112,7 @@ section{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     column-gap: 30px;
-    row-gap: 30px;
+    row-gap: 50px;
     transition: transform 0.5s;
     cursor: pointer;
 }
@@ -62,53 +120,44 @@ section{
 
 .category-item{
     max-width: 100%;
-}
-
-.category-item .img-container{
-    position: relative;
-}
-
-.category-item .img-container::after{
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: rgb(238, 115, 33);
-    opacity: 0;
+    background: rgb(245, 122, 41);
     border-radius: 12px;
+    position: relative;
     transition: all 0.5s;
+
 }
 
+
+.category-item:hover{
+    transform: translateY(-10px);
+}
 
 
 .category-item img{
-    border-radius: 12px;
+    border-radius: 12px 12px 0px 0px; 
     max-width: 100%;
 }
 
 .category-name{
+    position: absolute;
+    bottom: -20px;
+    left: 0px;
+    width: 100%;
     text-transform: capitalize;
     font-size: 25px;
     padding: 20px 0;
     text-align: center;
-    color: rgb(54, 53, 56);
+    color: rgb(255, 255, 255);
     transition: all 0.2s;
-}
-
-.category-item:hover.category-item .img-container::after{
-    opacity: 0.4;
+    background: rgb(238, 115, 33);
+    border-radius: 0px 0px 12px 12px;
 }
 
 
-.category-item:hover .category-name{
-    color: var(--primary-color);
-}
+
 
 
 .trending-grid, .category-recipe-grid{
-    background: rgb(255, 255, 255);
     max-width: 100%;
     min-width: 100%;
     display: grid;
@@ -126,10 +175,11 @@ section{
     grid-template-columns: 160px auto;
     color: rgb(34, 24, 24);
     border-radius: 15px;
-    box-shadow: 0px 4px 15px rgb(192, 192, 192);
-    background: rgb(255, 253, 249);
+    box-shadow: 0px 4px 15px rgb(204, 204, 204);
+   /*background: rgb(49, 35, 35);*/
     cursor: pointer;
     transition: transform 0.5s, border 0.3s;
+    background: rgb(255, 250, 244);
 }
 
 .recipe-item:hover{
@@ -152,7 +202,7 @@ section{
     font-size: 25px;
    text-transform: capitalize;
     font-weight: bold;
-    color: rgb(223, 93, 7);
+    color: rgb(231, 108, 26);
 }
 
 .recipe-info p{
@@ -188,7 +238,23 @@ section{
 
 
 
+.loader-container{
+    border: 3px solid red;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    position: absolute;
+    background: white;
+    top: 0;
+    left: 0;
+}
 
+.loader-container.hide{
+    display: none;
+}
 
 .loader,
 .loader:after {
@@ -199,7 +265,7 @@ section{
 
 .loader {
   margin: 60px auto;
-  font-size: 10px;
+  font-size: 20px;
   position: relative;
   text-indent: -9999em;
   border: 1.1em solid rgba(255, 255, 255, 0.2);
@@ -232,7 +298,5 @@ section{
   }
 }
 
-.loader.hide{
-    display: none;
-}
+
 

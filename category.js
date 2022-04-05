@@ -1,9 +1,10 @@
 import { fetchData } from "./fetchData.js"; 
 import { displayRecipe } from "./display.js";
 
+
+
 const selectedCategory = localStorage.getItem('category');
 const categoryTitle = document.querySelector('.category-page .title');
-console.log(categoryTitle, selectedCategory)
 const categoryRecipesSection = document.querySelector('.category-recipe-grid')
 
 
@@ -14,12 +15,13 @@ const categoryRecipesSection = document.querySelector('.category-recipe-grid')
 const load = async() => {
     document.title = selectedCategory;
     categoryTitle.textContent = selectedCategory;
+
     const categoriesArray = await filterCategories(selectedCategory);
     displayRecipe(categoryRecipesSection, categoriesArray);
-
+   
     //single recipe module
-   const recipes = document.querySelectorAll('.recipe-item');
-   selectRecipe(recipes);
+     const recipes = document.querySelectorAll('.recipe-item');
+     selectRecipe(recipes);
 }
 
 

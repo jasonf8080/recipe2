@@ -25,6 +25,7 @@ html{
 
 :root{
     font-size: 16px;
+    --dark-color: rgb(34, 24, 24);
 }
 *{
     box-sizing: border-box;
@@ -45,7 +46,7 @@ a{
 body{
     position: relative;
     background: url("https://www.designyourway.net/blog/wp-content/uploads/2019/09/Seamless-wood-pattern-01.jpg");
-    background: white;
+    background: rgb(253, 249, 249);
     font-size: 14px;
 }
 
@@ -57,7 +58,6 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index: 50;
-    background: rgb(255, 255, 255);
     box-shadow:  -5px 2px 5px rgba(0, 0, 0, 0.15);
     padding: 10px 10%;
     z-index: 999;
@@ -221,7 +221,7 @@ img{
     display: block;
 }
 
-.recipe-item{
+/*.recipe-item{
     max-width: 100%;
     display: grid;
     grid-template-columns: 160px auto;
@@ -231,7 +231,7 @@ img{
     background: rgb(255, 253, 249);
     cursor: pointer;
     transition: transform 0.5s, border 0.3s;
-}
+}*/
 
 .recipe-item:hover{
     transform: translateY(-8px);
@@ -411,7 +411,6 @@ img{
     min-width: 100%;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
-    display: none;
 }
 
 

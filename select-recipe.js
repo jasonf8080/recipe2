@@ -1,11 +1,14 @@
 import { fetchData } from "./fetchData.js";
+import { hideLoader } from "./loading.js";
+
+
 const recipeID = localStorage.getItem('recipeID');
 const titleElement = document.querySelector('.selected-recipe-title');
 const descElement = document.querySelector('.selected-recipe-desc');
 const imageElement = document.querySelector('.selected-recipe-img');
 const ingredientsElement = document.querySelector('.ingredients-list');
 const stepsElement = document.querySelector('.recipe-steps');
-const loader = document.querySelector('.loader');
+
 
 
 //EVENT LISTENERS
@@ -15,7 +18,6 @@ const loader = document.querySelector('.loader');
 //FUNCTIONS
 const loadRecipe = async () => {
     document.title = recipeID;
-    loader.classList.add('hide');
 
     const data = await fetchData();
     for(let i = 0; i < data.length; i++){
@@ -29,11 +31,11 @@ const loadRecipe = async () => {
 
             titleElement.textContent = title;
             descElement.textContent = desc;
-            imageElement.style.display = 'block';
             imageElement.src = image;
             ingredientsElement.innerHTML = ingredientsList;
             stepsElement.innerHTML = stepsList;   
     } 
+    hideLoader();
 }
 }
 

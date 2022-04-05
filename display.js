@@ -1,3 +1,4 @@
+import { hideLoader } from "./loading.js";
 //FUNCTIONS
 export const displayRecipe = (section, array) => {
     section.innerHTML = array.map((recipe) => 
@@ -9,8 +10,9 @@ export const displayRecipe = (section, array) => {
         </div>
        </a>`
     ).join('');
-    
+    hideLoader();
 }
+
 
 export const displayCategories = (section, categories) => {
     section.innerHTML = categories.map((category) => {
